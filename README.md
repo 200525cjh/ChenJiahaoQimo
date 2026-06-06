@@ -3,9 +3,6 @@
 本项目是《Java EE开发技术》期末作品，项目名称为 **ChenJiahaoQimo**，项目包名为 **com.chenjiahao.qimo**。系统基于 SSM 框架开发，实现酒店房型查询、在线预定、订单管理、后台房型房间维护、入住退房处理等功能。
 
 ## 项目信息
-
-- 学号：202302911200138
-- 姓名：陈佳豪
 - 项目名称：ChenJiahaoQimo
 - 项目包名：com.chenjiahao.qimo
 - 系统主题：酒店预定管理系统
